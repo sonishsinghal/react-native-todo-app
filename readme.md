@@ -12,7 +12,7 @@ https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en_IN
 OR
 
 2- Scan this Qr code in expo app <br />
-![expo qr code](assets/qrcode.png "todo app")
+![expo qr code](assets/qr-code.jpg "todo app")
 
 OR
 
