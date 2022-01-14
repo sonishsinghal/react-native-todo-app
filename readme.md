@@ -1,8 +1,8 @@
-# React Native TOdo App
+# React Native Todo App
 
 In this project, I have worked with the basics of React Native, building a general app that implements those basic functions using expo-cli and Visual Studio Code.
 
-# How to see a demo of this project:
+## How to see a demo of this project:
 
 1- Install Expo-Client App in your android/ios mobile device from Playstore/Appstore.
 https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en_IN
@@ -11,7 +11,7 @@ https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en_IN
 
 OR
 
-2- Scan this Qr code in expo app
+2- Scan this Qr code in expo app <br />
 ![expo qr code](assets/qrcode.png "todo app")
 
 OR
@@ -22,11 +22,11 @@ OR
 
 4- Also, my app will be automatically updated in your android/ios mobile device whenever it is required.
 
-# Download Standalone apk app:
+## Download Standalone apk app:
 
 https://www.mediafire.com/file/zebklnhc6np7e7x/todo-app.apk/file
 
-# How to run this project:
+## How to run this project:
 
 1- Download the entire project as a zip file and open it in Visual Studio after unzipping.
 
